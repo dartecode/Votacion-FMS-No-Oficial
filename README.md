@@ -33,3 +33,9 @@ Esta no es la app oficial de Urban Roosters simplemente es el pasatiempo de un j
 - Cuando hayas terminado las rondas, te saldrá el resultado
 
 <img src="Imagenes/resultado.png" width="200"/>
+
+
+## Donaciones
+Esto no es obligación pero si te gustaría apoyarme, puedes hacerlo por paypal
+
+[Paypal](https://paypal.me/DarioValdezC?locale.x=es_XC)
