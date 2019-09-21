@@ -1,6 +1,6 @@
 # Votacion-FMS-No-Oficial
 
-Este es un proyecto sin fines de lucro de una app móvil android para poder saber la votación de la FMS (Fresstyle Master Series).
+Esta no es la app oficial de Urban Roosters simplemente es el pasatiempo de un joven estudiante que quiso hacer su propia app de votaciones de FMS (Fresstyle Master Series), debido a que no habia en la play store una app así, bueno si pero tenia mucha publicidad. La app no es perfecta, pero cumple su función.
 
 <img src="Imagenes/Bienvenida%20App.png" width="200"/>
 
