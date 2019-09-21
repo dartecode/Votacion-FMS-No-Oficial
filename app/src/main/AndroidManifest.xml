@@ -9,27 +9,38 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PersonalizadoActivity"></activity>
-        <activity android:name=".ResultadoActivity" />
-        <activity android:name=".Rondas.DeluxeActivity" />
-        <activity android:name=".Rondas.Sangre2Activity" />
-        <activity android:name=".Rondas.Sangre1Activity" />
-        <activity android:name=".Rondas.PersonajesActivity" />
-        <activity android:name=".Rondas.Tematica2Activity" />
-        <activity android:name=".Rondas.Tematica1Activity" />
-        <activity android:name=".Rondas.HardModeActivity" />
-        <activity android:name=".Rondas.EasyModeActivity" />
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PersonalizadoActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ResultadoActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Rondas.DeluxeActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Rondas.Sangre2Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Rondas.Sangre1Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Rondas.PersonajesActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Rondas.Tematica2Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Rondas.Tematica1Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Rondas.HardModeActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Rondas.EasyModeActivity"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".CompetidoresActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 

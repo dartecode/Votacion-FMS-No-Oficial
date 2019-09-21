@@ -30,7 +30,7 @@ public class DeluxeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_deluxe);
-        getSupportActionBar().setTitle("DELUXE");
+        getSupportActionBar().setTitle("RONDA DELUXE");
         TextView mc1 = findViewById(R.id.deluxe_mc1);
         TextView mc2 = findViewById(R.id.deluxe_mc2);
         Button btnContinuar = findViewById(R.id.btnDeluxeContinuar);

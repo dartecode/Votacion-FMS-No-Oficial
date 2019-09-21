@@ -22,6 +22,7 @@ public class ResultadoActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_resultado);
+        getSupportActionBar().setTitle("RESULTADO");
         lblMC1 = findViewById(R.id.lblMC1);
         lblMC2 = findViewById(R.id.lblMC2);
         lblResultado = findViewById(R.id.lblResultado);

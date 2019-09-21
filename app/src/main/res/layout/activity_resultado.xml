@@ -7,16 +7,6 @@
     tools:context=".ResultadoActivity"
     android:orientation="vertical">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:text="@string/resultado"
-        android:textAlignment="center"
-        android:textSize="28sp"
-        android:textStyle="bold"
-        android:paddingTop="12dp"/>
-
 
     <TextView
         android:id="@+id/lblResultado"
@@ -26,7 +16,7 @@
         android:textAlignment="center"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:paddingTop="12dp"/>
+        android:paddingTop="24dp"/>
 
     <LinearLayout
         android:layout_width="match_parent"
