@@ -28,7 +28,7 @@ Este es un proyecto sin fines de lucro de una app móvil android para poder sabe
 
 - En los minutos a Sangre marca el checkbox si el MC da una respuesta a su contricante que le haya tirado en su minuto.
 
-<img src="Imagenes/puntuar%20respuesta.png" width="200"/>
+<img src="Imagenes/puntuar%20respuestas.png" width="200"/>
 
 - Cuando hayas terminado las rondas, te saldrá el resultado
 
