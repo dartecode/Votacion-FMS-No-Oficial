@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ESPAÑA">
+        <item>BLON</item>
+        <item>BNET</item>
+        <item>BTA</item>
+        <item>CHUTY</item>
+        <item>ERRECÉ</item>
+        <item>FORCE</item>
+        <item>MR EGO</item>
+        <item>SKONE</item>
+        <item>WALLS</item>
+        <item>ZASKO</item>
+    </string-array>
+
+    <string-array name="ARGENTINA">
+        <item>CACHA</item>
+        <item>DTOKE</item>
+        <item>KLAN</item>
+        <item>MKS</item>
+        <item>NACHO</item>
+        <item>PAPO</item>
+        <item>REPLIK</item>
+        <item>STUART</item>
+        <item>SUB</item>
+        <item>TRUENO</item>
+    </string-array>
+
+    <string-array name="CHILE">
+        <item>ACERTIJO</item>
+        <item>DROSE</item>
+        <item>EL MENOR</item>
+        <item>KAISER</item>
+        <item>NITRO</item>
+        <item>PEPE GRILLO</item>
+        <item>RICTO</item>
+        <item>STIGMA</item>
+        <item>TEOREMA</item>
+        <item>TOM CROWLEY</item>
+    </string-array>
+
+
+    <string-array name="MEXICO">
+        <item>ACZINO</item>
+        <item>JACK ADRENALINA</item>
+        <item>JONY BELTRAN</item>
+        <item>LOBO ESTEPARIO</item>
+        <item>MCKLOPEDIA</item>
+        <item>POTENCIA</item>
+        <item>RAPDER</item>
+        <item>RC</item>
+        <item>YOIKER</item>
+        <item>ZTICMA</item>
+    </string-array>
+
+    <string-array name="Patrones">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="Extras">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+</resources>

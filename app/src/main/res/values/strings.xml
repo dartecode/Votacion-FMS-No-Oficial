@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Votacion FMS</string>
+
+    <string name="flow">FLOW</string>
+    <string name="skills">SKILLS</string>
+    <string name="escena">ESCENA</string>
+
+    <string name="resultado">RESULTADO</string>
+
+    <string name="easymode">EASY MODE</string>
+    <string name="hardmode">HARD MODE</string>
+    <string name="tematica">TEMATICAS</string>
+    <string name="personajes">PERSONAJES</string>
+    <string name="minutos">MINUTOS</string>
+    <string name="Deluxe">DELUXE</string>
+    <string name="Total">TOTAL</string>
+
+    <string name="btnContinuar">CONTINUAR</string>
+    <string name="btnSalir">VOLVER AL INICIO</string>
+
+
+</resources>
