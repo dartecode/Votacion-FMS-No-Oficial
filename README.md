@@ -8,6 +8,10 @@ Esta no es la app oficial de Urban Roosters simplemente es el pasatiempo de un j
 
 [Votacion-FMS-No-Oficial.apk](https://mega.nz/#!eOhGnCDa!4LHJf8a99-7J5vxNsFH_qRX2vypH4jiV7WyA4ru5fTY)
 
+## Explicación en Youtube
+
+[Votacion-FMS-No-Oficial-Youtube](https://www.youtube.com/watch?v=-GFO6U48YUc)
+
 ## Uso
 
 - Escoge la liga que vas a votar. Existe la opción de personalizado por si quieres escoger 2 participantes de diferente liga o si es una exhibición con formato FMS.
